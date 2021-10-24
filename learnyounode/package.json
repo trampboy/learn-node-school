@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "after": "^0.8.2",
+    "async": "^3.2.1",
+    "bl": "^5.0.0",
+    "concat-stream": "^2.0.0",
     "learnyounode": "^4.2.2",
     "strftime": "^0.10.0",
     "through2-map": "^3.0.0"
