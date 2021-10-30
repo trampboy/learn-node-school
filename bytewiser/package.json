@@ -1,0 +1,15 @@
+{
+  "name": "bytewiser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bytewiser": "bytewiser"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bytewiser": "^2.1.0"
+  }
+}

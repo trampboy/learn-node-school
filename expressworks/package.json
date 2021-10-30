@@ -1,0 +1,15 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "expressworks": "expressworks"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expressworks": "^3.4.3"
+  }
+}

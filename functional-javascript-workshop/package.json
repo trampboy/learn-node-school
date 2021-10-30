@@ -1,0 +1,15 @@
+{
+  "name": "functional-javascript-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "functional-javascript-workshop": "functional-javascript-workshop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "functional-javascript-workshop": "^1.0.6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "javascripting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "javascripting": "javascripting"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javascripting": "^2.7.3"
+  }
+}
