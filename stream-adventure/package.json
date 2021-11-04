@@ -12,6 +12,7 @@
   "dependencies": {
     "concat-stream": "^2.0.0",
     "duplexer2": "^0.1.4",
+    "morse": "^0.1.0",
     "split2": "^4.1.0",
     "stream-adventure": "^4.3.2",
     "stream-combiner": "^0.2.2",
